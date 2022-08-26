@@ -1,0 +1,11 @@
+.card {
+  background-color: rgba(149, 34, 178, 0.352);
+
+  &-image img {
+    object-fit: contain;
+  }
+}
+
+.media-content {
+  text-align: center;
+}
